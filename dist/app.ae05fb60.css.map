@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":";EACE;;MAEI,sFAAkE;EACtE","file":"app.ae05fb60.css","sourceRoot":"..\\src","sourcesContent":["\r\n  html,\r\n  body{\r\n      background: url('../src/img/bg.jpg') no-repeat center center/cover;\r\n  }"]}
